@@ -1,4 +1,4 @@
-# Potential bug with `drawViewHierarchyInRect:afterScreenUpdates:
+# Potential bug with `drawViewHierarchyInRect:afterScreenUpdates:`
 
 This example project demonstrates a potential bug as described [here](http://stackoverflow.com/questions/23157653/drawviewhierarchyinrectafterscreenupdates-delays-other-animations).
 
